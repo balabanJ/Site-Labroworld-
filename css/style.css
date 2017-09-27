@@ -1,0 +1,71 @@
+@import url(reset.css);
+
+body{
+    background: url(../images/main_bg_2.png);
+}
+.wrapper{
+    width: 800px;
+    background-color: #e9e4de;
+    margin: 0 auto;
+}
+#header{
+    width: 800px;
+    height: 100px;
+    background: url(../images/menu_bg_1.png);
+}
+#header ul li{
+    display: inline;
+    float: left;
+    font: bold italic 22px Georgia;
+}
+#header ul li a{
+    text-decoration: none;
+    color: #2ab8bd;
+    display: block;
+    text-align: center;
+}
+
+#header ul li a:hover{
+    text-decoration: underline;
+}
+
+.img{
+    text-align: center;
+}
+
+.dog{
+text-align: center;
+  margin: 50px auto 5px;
+}
+  
+
+.text{
+background: url(../images/text_bg.png) no-repeat;
+margin: 0 50px 0 70px;
+font: bold italic 30px Georgia;
+
+}
+.text #p1{
+    text-align: center;
+    color: #ffffff;
+}
+
+.text #p1 span{
+    font-size: 60px;
+    text-decoration: underline;
+}
+#footer1{
+    text-align: center;
+    margin: 35px 0 10px 0;
+}
+#footer2{
+    text-align: center;
+    font: bold italic 15px Lucida Handwrit;
+}
+.a1 li{
+    margin: 0 75px 0 25px;
+}
+.a2 li{
+    margin-right: 65px;
+   
+}

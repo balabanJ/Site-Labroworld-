@@ -1,0 +1,213 @@
+@import url(reset.css);
+
+body
+{
+    background: url(../images/main_bg_2.png);
+}
+.wrapper
+{
+    width: 800px;
+    background-color: #e9e4de;
+    margin: 0 auto;
+}
+#header
+{
+    width: 800px;
+    height: 100px;
+    background: url(../images/menu_bg_1.png);
+}
+#header ul li
+{
+    display: inline;
+    float: left;
+    font: bold italic 22px Georgia;
+}
+#header ul li a
+{
+    text-decoration: none;
+    color: #2ab8bd;
+    display: block;
+    text-align: center;
+}
+
+.a1 li
+{
+    margin: 0 75px 0 25px;
+}
+
+.a2 li
+{
+    margin-right: 65px;
+}
+
+
+#header ul li a:hover
+{
+    text-decoration: underline;
+}
+
+.img
+{
+    text-align: center;
+}
+
+.dog
+{
+	text-align: center;
+	margin: 50px auto 5px;
+}
+
+.text
+{
+	background: url(../images/text_bg_care.png) no-repeat;
+	margin: 0 50px 0 70px
+}
+
+.text span
+{
+	margin-left: 13px;
+	margin-bottom: 10px;
+	font: bold italic 25px Georgia;
+	color: #2ab8bd;
+	text-decoration: underline;
+}
+
+.pic_1
+{
+	margin: 0 39px;
+	padding-top: 10px;
+}
+
+.text h2
+{
+	text-align: center;
+	margin-top: 10px;
+	font: italic 23px Georgia;
+	color: #2ab8bd;
+}
+
+
+.text #p1
+{
+	margin-left: 10px;
+	margin-top: 5px;
+	text-indent: 20px;
+	font: Italic 20px Times New Roman;
+	color: #ffffff;
+	line-height: 1;
+}
+
+.pic_2
+{
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.text #p2
+{
+	margin-left: 10px;
+	margin-top: 10px;
+	text-indent: 20px;
+	font: Italic 20px Times New Roman;
+	color: #ffffff;
+	line-height: 1;
+}
+
+.pic_3
+{
+	float: right;
+	margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.text #p3
+{
+	margin-left: 10px;
+	margin-top: 10px;
+	text-indent: 20px;
+	font: Italic 20px Times New Roman;
+	color: #ffffff;
+	line-height: 1;
+}
+
+.text #p4
+{
+	margin-left: 10px;
+	margin-top: 10px;
+	text-indent: 20px;
+	font: Italic 20px Times New Roman;
+	color: #ffffff;
+	line-height: 1;
+}
+
+.pic_4
+{
+	margin: 0 39px;
+	margin-top: 5px;
+}
+
+.text #p5
+{
+	margin-left: 10px;
+	margin-top: 5px;
+	text-indent: 20px;
+	font: Italic 20px Times New Roman;
+	color: #ffffff;
+	line-height: 1;
+}
+
+.text #p6
+{
+	margin-left: 10px;
+	margin-top: 5px;
+	text-indent: 20px;
+	font: Italic 20px Times New Roman;
+	color: #ffffff;
+	line-height: 1;
+}
+
+.text #p7
+{
+	margin-left: 10px;
+	margin-top: 5px;
+	text-indent: 20px;
+	font: Italic 20px Times New Roman;
+	color: #ffffff;
+	line-height: 1;
+}
+
+.pic_5
+{
+	margin: 0 39px;
+	margin-top: 5px;
+}
+
+.text #p8
+{
+	margin-left: 10px;
+	text-indent: 20px;
+	font: Italic 20px Times New Roman;
+	color: #ffffff;
+	line-height: 1;
+}
+
+.text #p9
+{
+	margin-left: 10px;
+	margin-top: 5px;
+	text-indent: 20px;
+	font: Italic 20px Times New Roman;
+	color: #ffffff;
+	line-height: 1;
+}
+
+#footer1{
+    text-align: center;
+    margin: 35px 0 10px 0;
+}
+
+#footer2{
+    text-align: center;
+    font: bold italic 15px Lucida Handwrit;
+}
